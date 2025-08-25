@@ -10,3 +10,16 @@ Data mining is the nontrivial extraction of previously unknown and potential use
 
 - mini project
 - final project
+
+
+# IA 340 Code
+
+This is a photo of my favorite animal.![image] (https://www.reptilecentre.com/blogs/reptile-blog/the-best-pet-frogs-for-beginners It is a frog.
+
+Types of Frogs:
+1. American Bullfrog
+2. Tree Frogs
+3. American Toad
+
+- Poisonous Frog: Poison Dart Frogs
+- Non Poisonous Frog: African Dwarf Frog 
